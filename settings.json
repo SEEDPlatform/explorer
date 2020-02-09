@@ -50,7 +50,7 @@
 
   "wallet": {
     "host": "localhost",
-    "port": 42422,
+    "port": 42423,
     "username": "SEEDExplorer",
     "password": "jub33u7TF2Uf6f23UFdu3vcvd4thj2u5yfH"
   },
