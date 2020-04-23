@@ -94,10 +94,10 @@
 
   // ensure links on API page are valid
   "api": {
-    "blockindex": 1337,
-    "blockhash": "1733320247b15ca2262be646397d1ffd6be953fa638ebb8f5dcbb4c2b91b34f1",
-    "txhash": "f270cd3813254c9922a2e222a56ba745842d9112223a1394062e460b33d27b7e",
-    "address": "SSMi33FxDb9jEDFmMrhC3ewcvZVnkjoSki"
+    "blockindex": 52,
+    "blockhash": "ef6c275698ded9e403241cb3765b5e364568813a84f1de2e72669b083e95ec8c",
+    "txhash": "57629b9fe623e7bb484b93eb22915fa05fd262e1d1f3d40a215bcfa363d6c892",
+    "address": "SNKxEgqC7ez12RoGMHQXXXAPefSqvjCSct"
   },
 
   // market settings
@@ -168,8 +168,8 @@
   "googleplus": "yourgooglepluspage",
 
   //genesis
-  "genesis_tx": "1069d5cafd0525245c0f0c4aba713544bc463a0609e7c2391e655fa11301c2ac",
-  "genesis_block": "00000e2dda7edcf0e414d03ed1848a8f5d365bd889ff0d85de5e24705a6fb7a2",
+  "genesis_tx": "5c04beb455ef4618ec49bff57082c22f6ad7f2d5eeddaa5fe1b311288bb9fed5",
+  "genesis_block": "0000068f94d712ed1db753356b67cd710630061c26f4fb8a0dd05e32fe562d04",
 
   // Fetch blocks from <index>
   "fetch_blocks_from": 0,
