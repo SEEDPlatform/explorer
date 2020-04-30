@@ -94,10 +94,10 @@
 
   // ensure links on API page are valid
   "api": {
-    "blockindex": 52,
-    "blockhash": "ef6c275698ded9e403241cb3765b5e364568813a84f1de2e72669b083e95ec8c",
-    "txhash": "57629b9fe623e7bb484b93eb22915fa05fd262e1d1f3d40a215bcfa363d6c892",
-    "address": "SNKxEgqC7ez12RoGMHQXXXAPefSqvjCSct"
+    "blockindex": 10,
+    "blockhash": "0000054823e77808134c6449a1bc14733b59914b1ccb15ddb99d657c470e3688",
+    "txhash": "b35d487aaae2caaa8c5bc1c917c9098f3d6e72b2b13fe0d68080a78f5d594428",
+    "address": "SWhpagGEzpNxdc4WdQSpJ7cAFHcChDPppe"
   },
 
   // market settings
@@ -124,9 +124,9 @@
   // low flag: greater than this value flagged yellow
   // high flag: greater than this value flagged red
   "movement": {
-    "min_amount": 100,
-    "low_flag": 1000,
-    "high_flag": 5000
+    "min_amount": 421,
+    "low_flag": 4201,
+    "high_flag": 42001
   },
 
   // Masternodes page
@@ -168,8 +168,8 @@
   "googleplus": "yourgooglepluspage",
 
   //genesis
-  "genesis_tx": "5c04beb455ef4618ec49bff57082c22f6ad7f2d5eeddaa5fe1b311288bb9fed5",
-  "genesis_block": "0000068f94d712ed1db753356b67cd710630061c26f4fb8a0dd05e32fe562d04",
+  "genesis_tx": "c4d3203a4385c3e8210014d4c984778fee48666db32514ab0dcf182c4ed7139f",
+  "genesis_block": "000003c2c1499f557c769cc6e47890c91422e3ab118cc7b5f3c939c685a972e1",
 
   // Fetch blocks from <index>
   "fetch_blocks_from": 0,
